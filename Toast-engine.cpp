@@ -9,7 +9,7 @@ cin >> n;
 
 while (n>0)
 {
-cout << n + ", " << endl
+cout << n << ", " << endl;
 ++n;
 }
 return (0);
